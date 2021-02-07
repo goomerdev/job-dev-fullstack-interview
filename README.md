@@ -20,7 +20,6 @@ Este desafio é composto por dois projetos:
 - **Nome do Projeto:** Goomer API
 - **Objetivo do Projeto:** Criar uma API RESTful capaz de gerenciar os restaurantes e os produtos do seu cardápio.
 - **Tecnologia:** Node.js com banco de dados relacional.
-- **Entregáveis:** Crie um repositório pessoal para esse projeto, siga as instruções abaixo e então envie um e-mail para joao.arcala@goomer.com.br e paula.jacob@goomer.com.br informando o link do repositório.
 
 ### Desafio
 
